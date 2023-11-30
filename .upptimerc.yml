@@ -6,16 +6,16 @@ sites:
   - name: DeepLX
     url: https://deeplx.mingming.dev
     
-  - name: DNS Server
+  - name: AdGuard
     url: https://dns.mingming.dev
     
-  - name: CORS Service
+  - name: CORS
     url: https://cors.mingming.dev
     
   - name: Image Hosting
     url: https://images.mingming.dev
     
-  - name: vless
+  - name: Vless
     url: https://vless.mingming.dev
     
   - name: Blog
@@ -24,7 +24,7 @@ sites:
   - name: Notes
     url: https://notes.mingming.dev
     
-  - name: ChatGPT
+  - name: Chat
     url: https://chat.mingming.dev
 
 
