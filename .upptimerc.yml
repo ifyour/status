@@ -6,11 +6,15 @@ sites:
   - name: Blog
     url: https://mingming.dev
   - name: Notes
-    url: https://notes.mingming.dev/
+    url: https://notes.mingming.dev
   - name: CORS Service
-    url: https://cors.mingming.dev/
+    url: https://cors.mingming.dev
   - name: Image Hosting
-    url: https://images.mingming.dev/
+    url: https://images.mingming.dev
+  - name: DeepLX
+    url: https://deeplx.mingming.dev
+  - name: DNS Server
+    url: https://dns.mingming.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
