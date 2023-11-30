@@ -9,12 +9,12 @@ sites:
     url: https://dns.mingming.dev
   - name: CORS Service
     url: https://cors.mingming.dev
+  - name: Image Hosting
+    url: https://images.mingming.dev
   - name: Blog
     url: https://mingming.dev
   - name: Notes
     url: https://notes.mingming.dev
-  - name: Image Hosting
-    url: https://images.mingming.dev
 
 
 status-website:
