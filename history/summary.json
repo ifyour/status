@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.mingming.dev.ico",
     "slug": "ad-guard",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.68%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 286,
     "timeDay": 145,
     "timeWeek": 269,
     "timeMonth": 288,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2023-12-31": 1,
+      "2024-01-01": 35,
+      "2023-12-31": 20,
       "2023-12-15": 91,
       "2023-12-14": 0
     }
@@ -45,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cors.mingming.dev.ico",
     "slug": "cors",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 253,
     "timeDay": 229,
     "timeWeek": 257,
     "timeMonth": 252,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-12-31": 1
+      "2024-01-01": 35,
+      "2023-12-31": 20
     }
   },
   {
@@ -65,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.mingming.dev.ico",
     "slug": "image-hosting",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 362,
     "timeDay": 2763,
     "timeWeek": 894,
     "timeMonth": 390,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2024-01-01": 35,
+      "2023-12-31": 20
     }
   },
   {
@@ -121,18 +124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.mingming.dev.ico",
     "slug": "notes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 306,
     "timeDay": 555,
     "timeWeek": 368,
     "timeMonth": 310,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2023-12-31": 0
+      "2024-01-01": 35,
+      "2023-12-31": 19
     }
   },
   {
