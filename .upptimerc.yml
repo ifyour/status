@@ -12,8 +12,8 @@ sites:
   # - name: CORS
   #   url: https://cors.mingming.dev
     
-  # - name: Image Hosting
-  #   url: https://images.mingming.dev
+  - name: Image Hosting
+    url: https://images.mingming.dev
     
   - name: Vless
     url: https://vless.mingming.dev
