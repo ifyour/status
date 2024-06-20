@@ -4,9 +4,9 @@
     "url": "https://deeplx.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
     "slug": "deep-lx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 132,
     "timeMonth": 138,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-20": 0
+    }
   },
   {
     "name": "Image Hosting",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.mingming.dev.ico",
     "slug": "image-hosting",
     "status": "up",
-    "uptime": "81.25%",
+    "uptime": "81.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.25%",
+    "uptimeYear": "81.35%",
     "time": 692,
     "timeDay": 124,
     "timeWeek": 143,
