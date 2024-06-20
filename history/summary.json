@@ -4,19 +4,19 @@
     "url": "https://deeplx.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
     "slug": "deep-lx",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 117,
-    "timeWeek": 132,
-    "timeMonth": 138,
+    "timeDay": 160,
+    "timeWeek": 141,
+    "timeMonth": 140,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 12
     }
   },
   {
