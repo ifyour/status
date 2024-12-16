@@ -70,19 +70,19 @@
     "url": "https://vless.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 81,
-    "timeWeek": 104,
-    "timeMonth": 122,
+    "timeDay": 112,
+    "timeWeek": 111,
+    "timeMonth": 123,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-12-16": 0
+      "2024-12-16": 19
     }
   },
   {
