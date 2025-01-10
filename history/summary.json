@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.02%",
+    "uptimeYear": "95.10%",
     "time": 435,
     "timeDay": 100,
     "timeWeek": 169,
@@ -58,16 +58,16 @@
     "url": "https://vless.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
-    "status": "up",
-    "uptime": "95.82%",
-    "uptimeDay": "26.63%",
-    "uptimeWeek": "24.98%",
-    "uptimeMonth": "44.12%",
-    "uptimeYear": "95.34%",
+    "status": "down",
+    "uptime": "95.83%",
+    "uptimeDay": "28.58%",
+    "uptimeWeek": "26.53%",
+    "uptimeMonth": "44.21%",
+    "uptimeYear": "95.35%",
     "time": 115,
-    "timeDay": 156,
-    "timeWeek": 116,
-    "timeMonth": 118,
+    "timeDay": 113,
+    "timeWeek": 117,
+    "timeMonth": 117,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-01-10": 112,
@@ -93,7 +93,7 @@
       "2024-12-21": 917,
       "2024-12-20": 1048,
       "2024-12-19": 1274,
-      "2024-12-18": 764
+      "2024-12-18": 723
     }
   },
   {
