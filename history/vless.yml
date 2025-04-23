@@ -1,7 +1,7 @@
 url: https://vless.mingming.dev
-status: up
-code: 200
-responseTime: 133
-lastUpdated: 2025-04-22T23:08:55.826Z
+status: down
+code: 429
+responseTime: 135
+lastUpdated: 2025-04-23T02:02:23.995Z
 startTime: 2023-11-30T15:14:47.224Z
 generator: Upptime <https://github.com/upptime/upptime>
