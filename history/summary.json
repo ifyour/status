@@ -11,34 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 186,
-    "timeDay": 146,
+    "timeDay": 145,
     "timeWeek": 144,
     "timeMonth": 141,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2025-11-18": 90
-    }
-  },
-  {
-    "name": "Image Hosting",
-    "url": "https://img.mingming.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/img.mingming.dev.ico",
-    "slug": "image-hosting",
-    "status": "down",
-    "uptime": "94.35%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 179,
-    "timeDay": 112,
-    "timeWeek": 148,
-    "timeMonth": 154,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2025-11-18": 70,
-      "2026-01-28": 50,
-      "2026-06-20": 0
     }
   },
   {
@@ -53,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 91,
-    "timeWeek": 98,
-    "timeMonth": 111,
-    "timeYear": 157,
+    "timeDay": 81,
+    "timeWeek": 93,
+    "timeMonth": 110,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2025-11-14": 24,
       "2025-11-18": 166
@@ -74,9 +52,9 @@
     "uptimeMonth": "84.52%",
     "uptimeYear": "7.20%",
     "time": 215,
-    "timeDay": 136,
-    "timeWeek": 201,
-    "timeMonth": 192,
+    "timeDay": 127,
+    "timeWeek": 191,
+    "timeMonth": 189,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
