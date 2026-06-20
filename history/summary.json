@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 186,
-    "timeDay": 165,
-    "timeWeek": 142,
-    "timeMonth": 139,
+    "timeDay": 104,
+    "timeWeek": 138,
+    "timeMonth": 140,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2025-11-18": 90
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/images.mingming.dev.ico",
     "slug": "image-hosting",
     "status": "up",
-    "uptime": "94.34%",
+    "uptime": "94.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 179,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 155,
-    "timeYear": 171,
+    "timeDay": 137,
+    "timeWeek": 157,
+    "timeMonth": 156,
+    "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 70,
       "2026-01-28": 50
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 152,
-    "timeDay": 162,
-    "timeWeek": 104,
-    "timeMonth": 113,
+    "timeDay": 65,
+    "timeWeek": 95,
+    "timeMonth": 111,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-11-14": 24,
@@ -67,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "59.54%",
+    "uptime": "59.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "6.88%",
+    "uptimeMonth": "83.88%",
+    "uptimeYear": "7.15%",
     "time": 215,
-    "timeDay": 477,
-    "timeWeek": 208,
-    "timeMonth": 190,
+    "timeDay": 145,
+    "timeWeek": 212,
+    "timeMonth": 194,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
@@ -415,8 +415,7 @@
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440
+      "2025-06-21": 1440
     }
   },
   {
@@ -425,18 +424,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.mingming.dev.ico",
     "slug": "chat",
     "status": "down",
-    "uptime": "56.68%",
+    "uptime": "56.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 740,
-    "timeDay": 461,
-    "timeWeek": 661,
+    "time": 731,
+    "timeDay": 567,
+    "timeWeek": 564,
     "timeMonth": 627,
-    "timeYear": 627,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2026-06-19": 166,
+      "2026-06-20": 126,
+      "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -799,8 +799,7 @@
       "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
-      "2025-06-21": 1440,
-      "2025-06-20": 1440
+      "2025-06-21": 1440
     }
   }
 ]
