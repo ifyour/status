@@ -13,7 +13,7 @@ sites:
   #   url: https://cors.mingming.dev
     
   - name: Image Hosting
-    url: https://images.mingming.dev
+    url: https://img.mingming.dev
     
   - name: Vless
     url: https://vless.mingming.dev
@@ -24,8 +24,8 @@ sites:
   # - name: Notes
   #   url: https://notes.mingming.dev
     
-  - name: Chat
-    url: https://chat.mingming.dev
+  # - name: Chat
+  #   url: https://chat.mingming.dev
 
 
 status-website:
