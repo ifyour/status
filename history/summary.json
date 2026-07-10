@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
     "slug": "deep-lx",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 183,
-    "timeDay": 109,
-    "timeWeek": 128,
-    "timeMonth": 148,
+    "timeDay": 149,
+    "timeWeek": 129,
+    "timeMonth": 145,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2025-11-18": 90
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 151,
-    "timeDay": 113,
-    "timeWeek": 117,
+    "timeDay": 172,
+    "timeWeek": 124,
     "timeMonth": 117,
-    "timeYear": 155,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2025-11-14": 24,
       "2025-11-18": 166
@@ -46,14 +46,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "60.39%",
+    "uptime": "60.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.35%",
+    "uptimeYear": "12.62%",
     "time": 214,
-    "timeDay": 129,
-    "timeWeek": 147,
+    "timeDay": 182,
+    "timeWeek": 149,
     "timeMonth": 174,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -374,8 +374,7 @@
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
-      "2025-07-11": 1440,
-      "2025-07-10": 1440
+      "2025-07-11": 1440
     }
   }
 ]
