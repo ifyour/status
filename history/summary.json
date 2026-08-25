@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
     "slug": "deep-lx",
     "status": "down",
-    "uptime": "97.71%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "97.67%",
+    "uptimeDay": "63.54%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.88%",
     "time": 177,
-    "timeDay": 111,
-    "timeWeek": 136,
-    "timeMonth": 157,
+    "timeDay": 70,
+    "timeWeek": 126,
+    "timeMonth": 156,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 90,
-      "2026-08-24": 0
+      "2026-08-25": 33,
+      "2026-08-24": 492
     }
   },
   {
@@ -26,20 +27,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
     "status": "down",
-    "uptime": "95.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 150,
-    "timeDay": 52,
-    "timeWeek": 118,
-    "timeMonth": 125,
-    "timeYear": 149,
+    "uptime": "95.66%",
+    "uptimeDay": "63.55%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.86%",
+    "time": 149,
+    "timeDay": 25,
+    "timeWeek": 104,
+    "timeMonth": 123,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2025-11-14": 24,
       "2025-11-18": 166,
-      "2026-08-24": 0
+      "2026-08-25": 33,
+      "2026-08-24": 492
     }
   },
   {
@@ -48,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "62.24%",
+    "uptime": "62.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.11%",
+    "uptimeYear": "25.21%",
     "time": 173,
-    "timeDay": 123,
-    "timeWeek": 165,
-    "timeMonth": 152,
-    "timeYear": 170,
+    "timeDay": 209,
+    "timeWeek": 171,
+    "timeMonth": 156,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
       "2026-05-23": 1440,
@@ -330,8 +332,7 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2025-08-25": 1440
+      "2025-08-26": 1440
     }
   }
 ]
