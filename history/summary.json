@@ -4,22 +4,23 @@
     "url": "https://deeplx.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
     "slug": "deep-lx",
-    "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "40.36%",
-    "uptimeWeek": "85.89%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.71%",
+    "status": "up",
+    "uptime": "97.54%",
+    "uptimeDay": "26.91%",
+    "uptimeWeek": "75.45%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "99.51%",
     "time": 176,
-    "timeDay": 101,
-    "timeWeek": 127,
-    "timeMonth": 150,
+    "timeDay": 153,
+    "timeWeek": 139,
+    "timeMonth": 152,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2025-11-18": 90,
       "2026-08-25": 927,
       "2026-08-24": 492,
-      "2026-08-26": 2
+      "2026-08-26": 907,
+      "2026-08-27": 147
     }
   },
   {
@@ -27,23 +28,24 @@
     "url": "https://vless.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
-    "status": "down",
-    "uptime": "95.63%",
-    "uptimeDay": "40.38%",
-    "uptimeWeek": "85.90%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "95.56%",
+    "uptimeDay": "26.92%",
+    "uptimeWeek": "75.46%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "99.49%",
     "time": 149,
-    "timeDay": 55,
-    "timeWeek": 89,
-    "timeMonth": 116,
+    "timeDay": 130,
+    "timeWeek": 95,
+    "timeMonth": 120,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-11-14": 24,
       "2025-11-18": 166,
       "2026-08-25": 927,
       "2026-08-24": 492,
-      "2026-08-26": 2
+      "2026-08-26": 907,
+      "2026-08-27": 147
     }
   },
   {
@@ -52,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "62.30%",
+    "uptime": "62.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.58%",
+    "uptimeYear": "25.78%",
     "time": 173,
-    "timeDay": 194,
-    "timeWeek": 173,
-    "timeMonth": 157,
+    "timeDay": 0,
+    "timeWeek": 180,
+    "timeMonth": 156,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
@@ -332,8 +334,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   }
 ]
