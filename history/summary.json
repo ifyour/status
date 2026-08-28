@@ -1,43 +1,19 @@
 [
   {
-    "name": "DeepLX",
-    "url": "https://deeplx.mingming.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/deeplx.mingming.dev.ico",
-    "slug": "deep-lx",
-    "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "44.16%",
-    "uptimeWeek": "75.45%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "99.51%",
-    "time": 176,
-    "timeDay": 130,
-    "timeWeek": 130,
-    "timeMonth": 148,
-    "timeYear": 169,
-    "dailyMinutesDown": {
-      "2025-11-18": 90,
-      "2026-08-25": 927,
-      "2026-08-24": 492,
-      "2026-08-26": 907,
-      "2026-08-27": 147
-    }
-  },
-  {
     "name": "Vless",
     "url": "https://vless.mingming.dev",
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
-    "status": "down",
-    "uptime": "95.59%",
-    "uptimeDay": "44.17%",
-    "uptimeWeek": "75.46%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "99.49%",
+    "status": "up",
+    "uptime": "95.53%",
+    "uptimeDay": "38.53%",
+    "uptimeWeek": "66.68%",
+    "uptimeMonth": "92.33%",
+    "uptimeYear": "99.32%",
     "time": 149,
-    "timeDay": 117,
-    "timeWeek": 90,
-    "timeMonth": 117,
+    "timeDay": 94,
+    "timeWeek": 93,
+    "timeMonth": 116,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-11-14": 24,
@@ -45,7 +21,8 @@
       "2026-08-25": 927,
       "2026-08-24": 492,
       "2026-08-26": 907,
-      "2026-08-27": 147
+      "2026-08-27": 804,
+      "2026-08-28": 229
     }
   },
   {
@@ -54,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "62.35%",
+    "uptime": "62.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.90%",
+    "uptimeYear": "26.07%",
     "time": 173,
-    "timeDay": 128,
-    "timeWeek": 172,
-    "timeMonth": 155,
+    "timeDay": 221,
+    "timeWeek": 191,
+    "timeMonth": 157,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
@@ -333,8 +310,7 @@
       "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
-      "2025-08-29": 1440,
-      "2025-08-28": 1440
+      "2025-08-29": 1440
     }
   }
 ]
