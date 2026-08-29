@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
     "status": "up",
-    "uptime": "95.53%",
-    "uptimeDay": "38.53%",
+    "uptime": "95.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "66.68%",
     "uptimeMonth": "92.33%",
     "uptimeYear": "99.32%",
     "time": 149,
-    "timeDay": 149,
-    "timeWeek": 104,
-    "timeMonth": 120,
+    "timeDay": 220,
+    "timeWeek": 110,
+    "timeMonth": 122,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-11-14": 24,
@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "62.37%",
+    "uptime": "62.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "26.11%",
-    "time": 173,
-    "timeDay": 261,
-    "timeWeek": 193,
-    "timeMonth": 159,
+    "uptimeYear": "26.36%",
+    "time": 174,
+    "timeDay": 202,
+    "timeWeek": 200,
+    "timeMonth": 162,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
@@ -309,8 +309,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   }
 ]
