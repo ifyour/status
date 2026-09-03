@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vless.mingming.dev.ico",
     "slug": "vless",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.78%",
+    "uptimeWeek": "90.83%",
     "uptimeMonth": "92.33%",
     "uptimeYear": "99.32%",
     "time": 149,
-    "timeDay": 315,
-    "timeWeek": 157,
-    "timeMonth": 130,
+    "timeDay": 210,
+    "timeWeek": 173,
+    "timeMonth": 132,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-11-14": 24,
@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mingming.dev.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "62.55%",
+    "uptime": "62.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.42%",
+    "uptimeYear": "27.69%",
     "time": 174,
-    "timeDay": 258,
-    "timeWeek": 238,
-    "timeMonth": 176,
+    "timeDay": 213,
+    "timeWeek": 235,
+    "timeMonth": 178,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-05-24": 1430,
@@ -304,8 +304,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   }
 ]
