@@ -21,11 +21,11 @@ sites:
   - name: Blog
     url: https://mingming.dev
     
-  # - name: Notes
-  #   url: https://notes.mingming.dev
+  - name: News
+    url: https://news.mingming.dev
     
-  # - name: Chat
-  #   url: https://chat.mingming.dev
+  - name: MMD
+    url: https://mmd.mingming.dev
 
 
 status-website:
